@@ -2,4 +2,4 @@ The most important thing to know about Expected Behavior is that we strongly pre
 
 Here are some things you may want to know
 
-[[History]]
+[History](history.md)
