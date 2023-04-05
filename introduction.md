@@ -14,3 +14,15 @@ Hooray! Here are the things you'll want to know
 [A Brief History Of Expected Behavior](history.md)  
 [How We Communicate](communication.md)
 
+Small company
+Judgement
+Flexibility
+Talk until you agree
+Strong opinions, weakly held - criticize ideas, not people
+Mistake theory and collaborative problem solving
+Never say never. Nothing is impossible.
+Vacations 
+Traditions - MND, Goof Off, Birthday Stuff, Lunch Train
+
+The Food Now room is used for organization of the lunch train and Monday Night Dinner. 
+
