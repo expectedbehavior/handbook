@@ -3,7 +3,7 @@ Let's talk about tone first.
 
 All of your communication should be courteous, empathetic, and honest. We're entirely opposed to the "it's ok to be mean if you're right" philosophy that many companies harbor. 
 
-It is entirely possible to disagree strongly while still being nice. It is entirely possible to deliver bad news to someone while still being nice. You'll know you're on the wrong side of the line if someone is upset at your communication and you say (or think) something like "it's the truth" or "you know I'm right". Courtesy and correctness are orthogonal. 
+It's possible to disagree strongly or deliver bad news to someone while still being nice. You'll know you're on the wrong side of the line if someone is upset at your communication and you say (or think) something like "it's the truth" or "you know I'm right". Courtesy and correctness are orthogonal. 
 
 Likewise, "I didn't say anything because I didn't want to hurt anyone's feelings" will not be viewed favorably. We're counting on you to share your perspective. If you're concerned about communicating your thoughts, please ask a senior Behaviornaught. They'll be happy to help you.
 
