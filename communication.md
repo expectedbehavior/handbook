@@ -5,10 +5,11 @@ All of your communication should be courteous, empathetic, and honest. We're ent
 
 It's possible to disagree strongly or deliver bad news to someone while still being nice. You'll know you're on the wrong side of the line if someone is upset at your communication and you say (or think) something like "it's the truth" or "you know I'm right". Courtesy and correctness are orthogonal. 
 
-Likewise, "I didn't say anything because I didn't want to hurt anyone's feelings" will not be viewed favorably. We're counting on you to share your perspective. If you'd like help communicating your thoughts, please ask a senior Behaviornaught. They'll be happy to help you.
+Likewise, "I didn't say anything because I didn't want to hurt anyone's feelings" will not be viewed favorably. We're counting on you to share your perspective. 
 
-Now let's talk about the mechanics!
+If you'd like help communicating your thoughts, please ask a senior Behaviornaught. They'll be happy to help you.
 
+# Where should I communicate?
 Most of your communication should be in writing. We believe communicating in writing has many long term benefits for the company, including
 - Time for you to consider your words
 - Time for you to find and cite helpful sources
@@ -17,20 +18,19 @@ Most of your communication should be in writing. We believe communicating in wri
 
 Most of your communication should be internally public. That doesn't necessarily mean that everyone should get a push notification for all your communication, but almost anyone in the company should be able to look up almost any thing anyone has talked about. That makes it easy for others to cite and build on your past work.
 
-# Where should I communicate?
 Our communication is designed around giving everyone at Expected Behavior maximum flexibility. 
 
 Always choose the most asynchronous, most permanent medium that will get the job done on time. Avoid becoming overly dependent on communication styles that emphasize your co-workers being in a particular place or working at a particular time. 
 
 Here's a breakdown roughly using the [Eisenhower Matrix](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method)
 
-**Important and Urgent communication that requires action in less than ~24 hours** should be done face to face. Failing that, a zoom call. Failing that, a phone call. Failing that, a text message. You are responsible for making sure that everyone that needs to receive this communication acknowledges receipt. This should be very, very, very rare. Consider this if 
+**Important and Urgent communication that requires action in the next one or two business days** should be done face to face. Failing that, a zoom call. Failing that, a phone call. Failing that, a text message. You are responsible for making sure that everyone that needs to receive this communication acknowledges receipt. This should be very, very, very rare. Consider this if 
 - one of our products is down when it should not be down and you need help to fix it
-- you're in charge of coordinating a goof off event and have to change the plan with less than one business day of notice
+- you're in charge of coordinating a goof off event and have to change the plan on the day of the event
 - a meteor will strike the Earth shortly
-- you are currently on fire
+- you are currently on fire (do not be [this person](http://www.bash.org/?60469))
 
-**All other Important Communication** should go in Basecamp. This should be the overwhelming majority of your communication by word volume. Basecamp is the only place everyone in the company is required to check and stay up to date on. If you put something in Basecamp and notify the people that need to know, it is now their responsibility to read it. On average, please check Basecamp at least once per day and try to optimize for responding to messages that are waiting on you. It's ok to check Basecamp only once a day. It's ok to go more than a day without checking Basecamp as long as you're mindful of blocking others. This is a good choice for
+**All other Important Communication** should go in Basecamp. This should be the overwhelming majority of your communication. Basecamp is the only place everyone in the company is required to check and stay up to date on. If you put something in Basecamp and notify the people that need to know, it is now their responsibility to read it. On average, please check Basecamp at least once per day and try to optimize for responding to messages that are waiting on you. It's ok to check Basecamp only once a day. It's ok to go more than a day without checking Basecamp as long as you're mindful of blocking others. This is a good choice for
 - project updates
 - keeping track of the things you need to do
 - describing a non-trivial idea to the company
@@ -78,6 +78,33 @@ If you choose to participate, you may be exposed to ideas or positions you stron
 # Do you use Campfire in Basecamp?
 No, we've tried that and it's bad. It forces a mix of important/unimportant and synchronous/asynchronous communication through the same notification channel that makes it hard to be a good participant in the company without wasting time.
 
+# What about email?
+The only reason to email anyone at Expected Behavior is if you're forwarding them an email from someone outside the company. Even then, consider just using Basecamp's email forwarding feature. Do not start internal-only email conversations.
 
+# What about Meetings™?
+We try not to have meetings, but sometimes it's the best choice.  If you need to have a meeting, here's a guide to making it as productive as possible
+- Don't do it.
+- Ok, you really have to. That happens.
+- Make an agenda that has clear objectives.
+- Invite only the people for whom that agenda is immediately valuable. If you invite 2 marketers and 2 engineers to a meeting and spend half the meeting talking nitty gritty development, you've wasted the time of two people.
+- Share the agenda with those people before the meeting so they're bought into what you're trying to accomplish.
+- Schedule the meeting for a length of time you think represents a good investment for the people you've invited.
+	- There are no meetings before lunch at Expected Behavior. It has too great an impact on [flexibility](flexibility.md).
+	- Lunch meetings start at 12:30.
+		- If you schedule a meeting during lunch time, you're in charge of making sure food is provided.
+- Use the agenda clearly during the meeting.
+	- Avoid expanding the agenda (or letting others expand it) during the meeting. Surprise topics are frequently unproductive. It's easy to get time with people at EB. Just schedule another one.
+- End the meeting when you get to the bottom of the agenda or you hit your scheduled time limit, whichever is sooner.
+
+# Vocabulary
+Here are some words and phrases we use that others don't or have special meaning to us
+- Behaviornaughts: What we call ourselves when we need a collective noun.
+- Lunch Train: All Behaviornaughts eating out for lunch typically go together on a lunch train. It coordinates in the Slack food channel and departs daily at 12:30. People that want to eat lunch with their coworkers plan around that being the time of departure. They will be sad if you leave without them. If you're going to be a little late, say something in channel and people will try to work it out with you.
+- The Scale™: We generally ask for opinions on a -5 to 5 scale, known officially as The Scale™. This format allows for the clear expression of positive, negative, and neutral opinions without needing additional qualifying words. The Scale™ only officially supports integer values, but rating things is hard so there are a variety of shenanigans.
+- Reasonable or 🉑: In the far past, reasonable was the highest form of praise you could receive at Expected Behavior. 🉑 is the emoji for acceptable. It’s used as a synonym for reasonable because there’s no emoji for reasonable. We've evolved a more verbally affirmative culture, but you'll still see these words pretty often.
+- [ironic statement].....Expected Behavior: Once upon a time, we tried to come up with a company slogan. Now, any ironic statement can be suggested as the company slogan. H[ere’s an example](https://3.basecamp.com/3093825/buckets/594230/messages/2109011229#__recording_2124992058).
+- Situational Irony: A mythical sister company to Expected Behavior. It’s the holding company for all of the excellent business ideas we come up with that we cannot or will not pursue for various legal, moral, or ethical reasons.
+- The Fort or Fort Behavior: Our old office in a subdivision home. It had some pros and cons.
+- The Bunker: The current office, so named because it’s a fort that’s underground.
 
 
