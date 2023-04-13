@@ -18,4 +18,5 @@ These are the key ideas that make Expected Behavior work.
 - [How We Communicate](communication.md)
 - [How We Work](how_we_work.md)
 - [Benefits](benefits.md)
+- [Spending Money](spending_money.md)
 - [A Brief History Of Expected Behavior](history.md)
