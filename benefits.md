@@ -81,6 +81,9 @@ We also have a fine whiskey selection and a smattering of other alcohol. Expecte
 
 If there’s a snack or beverage you like that we don’t have, get some with your company card and share it with us.
 
+# In-Office Gym
+This is a recent experiment in increasing our convenience. We're gauging usage to see if we should keep it. The current implementation is somewhere around "nice hotel gym". We have a treadmill, dumbbells from 5-80lb, a bench, and various tools for yoga/stretching/correctives. Showers are available in our restrooms.
+
 
 
 

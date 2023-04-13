@@ -6,6 +6,22 @@ There is usually somebody in the office between 9am and 7pm on most workdays. So
 
 It doesn't matter if you'll be the first in or the last out. You won't need anyone to open the office for you or close it up when you're done. You'll have complete access. 
 
+### Parking
+We provide vehicle parking in the lot northwest of the building, adjacent to Michigan St. Ask for a parking pass form from the building's reception desk.
+
+You may also park on the street on Vermont or Davidson, but not Fulton. The building has an agreement with local residents to not park on Fulton.
+
+A bicycle rack is available on the north side of the building, but if you prefer, you can bring it into the office and park it by your desk or in the supply room.
+
+### Office Amenities
+See our [benefits](benefits.md) for details.
+
+### Packages
+All packages can be picked up from the reception desk area. They will typically send an email when your packages arrive. Outgoing FedEx and USPS service is also available.
+
+### Trash & Recycling
+The trash bin is on the northeast corner of the office. Recycling bins are in the hall. Cardboard recycling is on our floor by the main stairs.
+
 # Working From Home
 We want you to be excited about coming to work at the office with the rest of us while simultaneously feeling completely free to work from home or the coffee shop. Maybe you want some alone time or need to focus. Or maybe you have sick kids, dentist appointments, or car problems. [Notify people](communication.md) about your expected availability as necessary.
 
