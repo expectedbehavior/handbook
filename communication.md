@@ -7,7 +7,7 @@ It's possible to disagree strongly or deliver bad news to someone while still be
 
 Likewise, "I didn't say anything because I didn't want to hurt anyone's feelings" will not be viewed favorably. We're counting on you to share your perspective. 
 
-If you'd like help communicating your thoughts, please ask a senior Behaviornaught. They'll be happy to help you.
+If you'd like help communicating your thoughts, please ask a senior Behaviornaut. They'll be happy to help you.
 
 # Where should I communicate?
 Most of your communication should be in writing. We believe communicating in writing has many long term benefits for the company, including
@@ -45,7 +45,7 @@ Everything in Slack should be transient ("I'm doing some testing on server1 for 
 - sharing links to funny or interesting things on the internet (any channel)
 - sharing links to sad or angry thing on the internet (probably the politics channel, more below)
 - letting people know about your schedule for the day (e.g. if you normally come into the office on Monday, but your car broke down so you'll be working from the shop until it is fixed)
-- coming up with new post apocalyptic communication jokes with other Behaviornaughts
+- coming up with new post apocalyptic communication jokes with other Behaviornauts
 
 # My attempts at written communication are failing.
 Two things here.
@@ -98,11 +98,11 @@ We try not to have meetings, but sometimes it's the best choice.  If you need to
 
 # Vocabulary
 Here are some words and phrases we use that others don't or have special meaning to us
-- Behaviornaughts: What we call ourselves when we need a collective noun.
-- Lunch Train: All Behaviornaughts eating out for lunch typically go together on a lunch train. It coordinates in the Slack food channel and departs daily at 12:30. People that want to eat lunch with their coworkers plan around that being the time of departure. They will be sad if you leave without them. If you're going to be a little late, say something in channel and people will try to work it out with you.
+- Behaviornauts: What we call ourselves when we need a collective noun.
+- Lunch Train: All Behaviornauts eating out for lunch typically go together on a lunch train. It coordinates in the Slack food channel and departs daily at 12:30. People that want to eat lunch with their coworkers plan around that being the time of departure. They will be sad if you leave without them. If you're going to be a little late, say something in channel and people will try to work it out with you.
 - The Scale™: We generally ask for opinions on a -5 to 5 scale, known officially as The Scale™. This format allows for the clear expression of positive, negative, and neutral opinions without needing additional qualifying words. The Scale™ only officially supports integer values, but rating things is hard so there are a variety of shenanigans.
 - Reasonable or 🉑: In the far past, reasonable was the highest form of praise you could receive at Expected Behavior. 🉑 is the emoji for acceptable. It’s used as a synonym for reasonable because there’s no emoji for reasonable. We've evolved a more verbally affirmative culture, but you'll still see these words pretty often.
-- [ironic statement].....Expected Behavior: Once upon a time, we tried to come up with a company slogan. Now, any ironic statement can be suggested as the company slogan. H[ere’s an example](https://3.basecamp.com/3093825/buckets/594230/messages/2109011229#__recording_2124992058).
+- [ironic statement].....Expected Behavior: Once upon a time, we tried to come up with a company slogan. Now, any ironic statement can be suggested as the company slogan. [Here’s an example](https://3.basecamp.com/3093825/buckets/594230/messages/2109011229#__recording_2124992058).
 - Situational Irony: A mythical sister company to Expected Behavior. It’s the holding company for all of the excellent business ideas we come up with that we cannot or will not pursue for various legal, moral, or ethical reasons.
 - The Fort or Fort Behavior: Our old office in a subdivision home. It had some pros and cons.
 - The Bunker: The current office, so named because it’s a fort that’s underground.
