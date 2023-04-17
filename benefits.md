@@ -3,7 +3,7 @@ We want to improve the lives of our employees beyond offering good salaries. We 
 # Insperity
 This isn't a benefit, but you need to know what it is to understand some of the benefits.
 
-[Insperity](https://www.insperity.com) is our PEO. A PEO (Professional Employer Organization) provides HR services like payroll processing, tax filing, insurance management to small and medium businesses like us.
+[Insperity](https://www.insperity.com) is our PEO. A PEO (Professional Employer Organization) provides HR services like payroll processing, payroll tax management, and insurance management to small and medium businesses like us.
 Legally speaking, the PEO arrangement means you are employed by both Insperity and Expected Behavior. Your paychecks will come from Insperity.
 
 The Insperity portal is where you will manage most of your hiring/onboarding documentation, insurance benefits, and salary information such as W-2s. Generally speaking, you won’t regularly interact with Insperity.
@@ -24,7 +24,7 @@ Relatedly, because we all love to travel, we have a [Travel Reports Basecamp](ht
 # Holidays
 Holidays are listed on the EB Travel & Vacation calendar. We observe the following holidays each year:
 - New Year's Day
-- MLK, Jr. Day 
+- MLK Jr. Day 
 - Presidents' Day 
 - Memorial Day
 - Juneteenth
@@ -40,7 +40,7 @@ Holidays are listed on the EB Travel & Vacation calendar. We observe the followi
 These aren't strictly necessary with an unlimited vacation day policy. This list exists because it got annoying to have a couple dozen perfunctory "this is obviously a holiday" conversations in chat every year. You can work on these days if you want, but you can't do anything that would induce someone else to work.
 
 # Monday Night Dinner
-This is one of our "togetherness" benefits. A wise man once said that Expected Behavior only works if we all like and respect each other. Togetherness benefits encourage that by making it convenient to spend time together when we're not working. After work every Monday, all the willing Behaviornaughts go out to dinner and Expected Behavior pays. We already have plenty of time together to talk about work, so work talk is discouraged. 
+This is one of our "togetherness" benefits. A wise man once said that Expected Behavior only works if we all like and respect each other. Togetherness benefits encourage that by making it convenient to spend time together when we're not working. After work every Monday, all the willing Behaviornauts go out to dinner and Expected Behavior pays. We already have plenty of time together to talk about work, so work talk is discouraged. 
 
 # Goof Off Days
 Every 6-8 weeks, we take a day off and do something together during the work day. We take turns planning the goof off day, so everyone has a chance to show off their interests. You can find the current schedule in [relevant Basecamp](https://3.basecamp.com/3093825/projects/31753536). When it's your turn to plan, it's a chance to share your interests with your coworkers or just have us do something together you think is fun. It's fine to repeat previous goofs. [The only limit is yourself](https://www.zombo.com). And the budget (also found in the Basecamp).
