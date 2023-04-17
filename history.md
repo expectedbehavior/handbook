@@ -1,7 +1,7 @@
 It's hard to summarize over 16 years of growth and change in a number of words appropriate for a handbook. For the sake of brevity, "we" means either "Jason and Matt" or "all of the people involved in Expected Behavior at the time" depending on the context and how early it is in the timeline.
 
 # 2001
-Jason and Matt meet at Rose-Hulman and become fast friends.
+Jason and Matt meet at Rose-Hulman and become fast friends. Nate is also there and avoids any sort of friendship quite spectacularly.
 
 # 2002
 A few months later, we've decided to start a business together after graduation. 
