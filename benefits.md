@@ -66,7 +66,7 @@ We’re a technology company and should be familiar with the popular and leading
 - A cutting edge phone from every major generation or every two years, whichever is sooner
 - A cutting edge tablet from every other major generation or every three years, whichever is sooner
 
-After getting new hardware, we also allow employees to [purchase old hardware](https://3.basecamp.com/3093825/buckets/6989955/documents/4735531976) from the computer at a below-market-value rate.
+After getting new hardware, we also allow employees to [purchase old hardware](https://3.basecamp.com/3093825/buckets/6989955/documents/4735531976) from the company at a below-market-value rate.
 
 # Phone Service
 You have two choices. You can put your phone on Expected Behavior’s phone plan at Verizon and use all the data you want at any time for any reason, period.  Or, if you like your current plan, EB will subsidize it up to $75/mo. You will need to report your real phone cost to get reimbursed.
