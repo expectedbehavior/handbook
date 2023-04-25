@@ -56,7 +56,7 @@ Our healthcare benefit is equal to the cost of medical, dental, and vision, at t
 We provide life insurance and personal accident insurance (max $50,000 benefit for both). Through Insperity, you may purchase (pretax) disability insurance, accident insurance, and additional life insurance.
 
 # 401k
-We offer 401k plans through Vanguard and will match up to 4% of your salary. We match contributions point-for-point up to three points (i.e. you contribute 3% of your salary and we’ll match 3% of your salary) and a half point each for the next two points (i.e. you contribute 5% of your salary and we’ll match 4% of your salary). You can update your contribution level [here](https://3.basecamp.com/3093825/buckets/6989955/messages/2318510773).
+We offer 401k plans through Vanguard and will match up to 4% of your salary. We match contributions point-for-point up to three points (i.e. you contribute 3% of your salary and we’ll match 3% of your salary) and a half point each for the next two points (i.e. you contribute 5% of your salary and we’ll match 4% of your salary). You can find instructions for updating your contribution level [here](https://3.basecamp.com/3093825/buckets/6989955/messages/2318510773).
 
 # Cutting Edge Hardware
 We’re a technology company and should be familiar with the popular and leading-edge software and hardware of today. To promote that, we’ll regularly provide you with new cutting-edge hardware so you’re getting the same day-to-day experience of technology a majority of people will be having in the next 1-2 years as the future becomes more evenly distributed. Specifically, you’ll get any/all of the following that you’ll actually use:
