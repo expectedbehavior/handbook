@@ -38,9 +38,11 @@ Here's a breakdown roughly using the [Eisenhower Matrix](https://en.wikipedia.or
 - anything someone else at the company _must_ know
 - a meteor that will strike the Earth some time next week
 
-**Unimportant Communication** can go in Slack. Semi-real time communication like Slack can be helpful when many people are working at the same time. It's expected that you'll be in Slack most of the time when you're working, but it's ok if you're not. I sometimes turn it off to reduce distraction when I need to focus. It's ok to ignore Slack indefinitely. It's ok to go on vacation and never read any of the messages you missed.  
+**Unimportant Communication** can go in Slack. Semi-real time communication like Slack can be helpful when many people are working at the same time. 
 
-Everything in Slack should be transient ("I'm doing some testing on server1 for the next hour") or optional ("Here's a picture of a duckling watching a baby rabbit eat a carrot"). Rarely, you may feel the need to straddle the line between Important and real time. You can solve that by posting to Basecamp and putting a link to your post in Slack. Please try to avoid [wuphfing](https://www.youtube.com/watch?v=OrVskziCc4w) people. Slack is a good choice for
+It's expected that you'll be in Slack a lot of the time when you're working, but there may be reasons you're not. It's ok to turn Slack off to reduce distraction if you need to focus. Just be mindful of the needs of others to communicate with you about work. It's also ok to go on vacation and never read any of the messages you missed. Everything in Slack should be transient ("I'm doing some testing on server1 for the next hour") or optional ("Here's a picture of a duckling watching a baby rabbit eat a carrot").
+
+Rarely, you may feel the need to straddle the line between Important and real time. You can solve that by posting to Basecamp and putting a link to your post in Slack. Please try to avoid [wuphfing](https://www.youtube.com/watch?v=OrVskziCc4w) people. Slack is a good choice for
 - letting people know you're deploying or otherwise doing stuff that could be relevant to other people working at that same time as you (transient)
 - sharing links to funny or interesting things on the internet (any channel)
 - sharing links to sad or angry thing on the internet (probably the politics channel, more below)
