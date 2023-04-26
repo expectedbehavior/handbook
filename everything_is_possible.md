@@ -10,5 +10,5 @@ It's much more productive to say "It will cost 100 trillion dollars to add laser
 
 No one knows everything. Just because you don't know how to [rotate an infinitely long cylinder](https://en.wikipedia.org/wiki/Tipler_cylinder) doesn't mean your coworkers don't. Avoiding "impossible" allows for the kind of collaboration that makes an [intentionally small](intentionally_small.md) company like Expected Behavior do incredible things.
 
-Please don't say "impossible" unless you're prepared to provide a detailed, cogent argument demonstrating that conclusion. That will probably involves showing it violates one of the widely-believed-unbreakable physical constants of the universe. Instead, focus on communicating the specific blockers between you and the stated goal.
+Please don't say "impossible" unless you're prepared to provide a detailed, cogent argument demonstrating that conclusion. That probably involves showing it violates one of the widely-believed-unbreakable physical constants of the universe. Instead, focus on communicating the specific blockers between you and the stated goal.
 
