@@ -6,10 +6,10 @@ This isn't a benefit, but you need to know what it is to understand some of the 
 [Insperity](https://www.insperity.com) is our PEO. A PEO (Professional Employer Organization) provides HR services like payroll processing, payroll tax management, and insurance management to small and medium businesses like us.
 Legally speaking, the PEO arrangement means you are employed by both Insperity and Expected Behavior. Your paychecks will come from Insperity.
 
-The Insperity portal is where you will manage most of your hiring/onboarding documentation, insurance benefits, and salary information such as W-2s. Generally speaking, you won’t regularly interact with Insperity.
+The [Insperity portal](https://portal.insperity.com/) is where you will manage most of your hiring documentation, insurance benefits, and salary information such as W-2s. Generally speaking, you won’t regularly interact with Insperity.
 
 # Vacations and Travel
-You are required to take at least two one week vacations per year, but we encourage averaging one week per quarter. You are required to take vacation for two reasons
+You are required to take at least two one-week vacations per year, but we encourage averaging one week per quarter. You are required to take vacation for two reasons
 - Our work requires creativity. There is a limit to how long you can continuously work before your creativity erodes.
 - It's an opportunity for the business to make sure it is well formed. The business should operate smoothly while you're on vacation. If it doesn't, that's something we need to address.
 
@@ -48,13 +48,15 @@ Every 6-8 weeks, we take a day off and do something together during the work day
 # Retreats
 From time to time, the company may take an all-expense-paid retreat to celebrate, to plan, or to unwind.  We’ll fly somewhere, stay in a nice place, hang out, eat good food, and entertain ourselves.
 
-# Healthcare
-Through [Insperity](https://www.insperity.com), we offer a variety of healthcare plan options.
+# Healthcare & Insurance
+Through [Insperity](https://portal.insperity.com/), we offer a variety of healthcare plan options. After your initial selection, you can switch your plan only at the end of the year unless you have a [qualifying life event](https://www.healthcare.gov/glossary/qualifying-life-event/).
 
-Our healthcare benefit is equal to the cost of medical, dental, and vision, at the best available plan. Spouses/dependents can be added to your plan at your expense. If you elect to use a plan less-comprehensive than the best available, any overage benefit will also be applied to the cost of covering your dependents.
+Our healthcare benefit is equal to the cost of medical, dental, and vision, at the best available plan. Spouses/dependents can be added to your plan at your expense.
+
+We provide life insurance and personal accident insurance (max $50,000 benefit for both). Through Insperity, you may purchase (pretax) disability insurance, accident insurance, and additional life insurance.
 
 # 401k
-We offer 401k plans through Vanguard and will match up to 4% of your salary. We match contributions point-for-point up to three points (i.e. you contribute 3% of your salary and we’ll match 3% of your salary) and a half point each for the next two points (i.e. you contribute 5% of your salary and we’ll match 4% of your salary).
+We offer 401k plans through Vanguard and will match up to 4% of your salary. We match contributions point-for-point up to three points (i.e. you contribute 3% of your salary and we’ll match 3% of your salary) and a half point each for the next two points (i.e. you contribute 5% of your salary and we’ll match 4% of your salary). You can find instructions for updating your contribution level [here](https://3.basecamp.com/3093825/buckets/6989955/messages/2318510773).
 
 # Cutting Edge Hardware
 We’re a technology company and should be familiar with the popular and leading-edge software and hardware of today. To promote that, we’ll regularly provide you with new cutting-edge hardware so you’re getting the same day-to-day experience of technology a majority of people will be having in the next 1-2 years as the future becomes more evenly distributed. Specifically, you’ll get any/all of the following that you’ll actually use:
@@ -63,6 +65,8 @@ We’re a technology company and should be familiar with the popular and leading
 - The accessories of your choosing including mouse, keyboard, adapters, etc
 - A cutting edge phone from every major generation or every two years, whichever is sooner
 - A cutting edge tablet from every other major generation or every three years, whichever is sooner
+
+After getting new hardware, we also allow employees to [purchase old hardware](https://3.basecamp.com/3093825/buckets/6989955/documents/4735531976) from the company at a below-market-value rate.
 
 # Phone Service
 You have two choices. You can put your phone on Expected Behavior’s phone plan at Verizon and use all the data you want at any time for any reason, period.  Or, if you like your current plan, EB will subsidize it up to $75/mo. You will need to report your real phone cost to get reimbursed.
