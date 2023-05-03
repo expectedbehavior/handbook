@@ -24,7 +24,7 @@ Always choose the most asynchronous, most permanent medium that will get the job
 
 Here's a breakdown roughly using the [Eisenhower Matrix](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method)
 
-**Important and Urgent communication that requires action in the next one or two business days** should be done face to face. Failing that, a zoom call. Failing that, a phone call. Failing that, a text message. You are responsible for making sure that everyone that needs to receive this communication acknowledges receipt. This should be very, very, very rare. Consider this if 
+**Important and Urgent communication that requires action in the next one or two business days** should be done face to face. Failing that, a zoom call. Failing that, a [phone](#employee-directory) call. Failing that, a [text message](#employee-directory). You are responsible for making sure that everyone that needs to receive this communication acknowledges receipt. This should be very, very, very rare. Consider this if
 - one of our products is down when it should not be down and you need help to fix it
 - you're in charge of coordinating a goof off event and have to change the plan on the day of the event
 - a meteor will strike the Earth shortly
@@ -109,4 +109,5 @@ Here are some words and phrases we use that others don't or have special meaning
 - The Fort or Fort Behavior: Our old office in a subdivision home. It had some pros and cons.
 - The Bunker: The current office, so named because it’s a fort that’s underground.
 
-
+# Employee Directory
+Look in the [employee directory](https://docs.google.com/spreadsheets/d/1Tuf-I1XwasimsGPdrYNFCAARZWr5A8VC5r65g0eEQuo/edit#gid=0) to find someone's phone number, address, or get reminded their pet's names. To add in your info, just duplicate an existing tab and complete.
