@@ -13,7 +13,7 @@ You are required to take at least two one-week vacations per year, but we encour
 - Our work requires creativity. There is a limit to how long you can continuously work before your creativity erodes.
 - It's an opportunity for the business to make sure it is well formed. The business should operate smoothly while you're on vacation. If it doesn't, that's something we need to address.
 
-To schedule a vacation (or to note that you'll be traveling), add a new event to do the EB Travel & Vacation calendar with the format "{Name} - {Location} - {Vacation/Working}". It's especially important to note the difference between being somewhere else while you work and being on vacation.  
+To schedule a vacation (or to note that you'll be traveling), add a new event to do the [EB Travel & Vacation calendar](https://calendar.google.com/calendar/u/1?cid=ZXhwZWN0ZWRiZWhhdmlvci5jb21fcDQzYTkwaWZobGtxNXBwbm1jMDU3MWFoNDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) with the format "{Name} - {Location} - {Vacation/Working}". It's especially important to note the difference between being somewhere else while you work and being on vacation.
 
 It is **your** responsibility to ensure that you redistribute all your work obligations to others prior to your vacation (such as the DevOps pager or support management). If it doesn't disrupt your obligations, there's no need to ask permission or notify anyone! If it does have an impact, notify the relevant team members and discuss any potential complications. 
 
@@ -22,7 +22,7 @@ There's no rule about how far in advance you need to announce a vacation. If you
 Relatedly, because we all love to travel, we have a [Travel Reports Basecamp](https://3.basecamp.com/3093825/projects/13426840) where we share our travel experiences. 
 
 # Holidays
-Holidays are listed on the EB Travel & Vacation calendar. We observe the following holidays each year:
+Holidays are listed on the [EB Travel & Vacation calendar](https://calendar.google.com/calendar/u/1?cid=ZXhwZWN0ZWRiZWhhdmlvci5jb21fcDQzYTkwaWZobGtxNXBwbm1jMDU3MWFoNDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). We observe the following holidays each year:
 - New Year's Day
 - MLK Jr. Day 
 - Presidents' Day 
