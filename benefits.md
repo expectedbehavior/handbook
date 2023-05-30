@@ -18,8 +18,10 @@ To schedule a vacation (or to note that you'll be traveling), add a new event to
 It is **your** responsibility to ensure that you redistribute all your work obligations to others prior to your vacation (such as the DevOps pager or support management). If it doesn't disrupt your obligations, there's no need to ask permission or notify anyone! If it does have an impact, notify the relevant team members and discuss any potential complications. 
 
 There's no rule about how far in advance you need to announce a vacation. If your schedule allows, you could wake up today and decide you don't feel like it. It's almost always possible to redistribute work, but be aware that popular holidays can make it difficult to find someone to cover you. Consider planning in advance according to how important it is to you.
+
+We strongly discourage working while on vacation. But we realize there are spectrums of "vacations" and maybe you're just watching the kids for a day and you're bored during nap time. If you work while on vacation, do not do things that might block others or force them to consider communicating with you. For example, no deploying.
  
-Relatedly, because we all love to travel, we have a [Travel Reports Basecamp](https://3.basecamp.com/3093825/projects/13426840) where we share our travel experiences. 
+Lastly, because we all love to travel, we have a [Travel Reports Basecamp](https://3.basecamp.com/3093825/projects/13426840) where we share our travel experiences.
 
 # Holidays
 Holidays are listed on the [EB Travel & Vacation calendar](https://calendar.google.com/calendar/u/1?cid=ZXhwZWN0ZWRiZWhhdmlvci5jb21fcDQzYTkwaWZobGtxNXBwbm1jMDU3MWFoNDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). We observe the following holidays each year:
