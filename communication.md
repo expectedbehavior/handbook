@@ -83,6 +83,8 @@ No, we've tried that and it's bad. It forces a mix of important/unimportant and 
 # What about email?
 The only reason to email anyone at Expected Behavior is if you're forwarding them an email from someone outside the company. Even then, consider just using Basecamp's email forwarding feature. Do not start internal-only email conversations.
 
+You can use [Hey as your email tool](https://3.basecamp.com/3093825/buckets/594230/messages/5564219109) to waste even less time on email.
+
 # What about Meetings™?
 We try not to have meetings, but sometimes it's the best choice.  If you need to have a meeting, here's a guide to making it as productive as possible
 - Don't do it.
