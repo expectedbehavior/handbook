@@ -19,7 +19,7 @@ It is **your** responsibility to ensure that you redistribute all your work obli
 
 There's no rule about how far in advance you need to announce a vacation. If your schedule allows, you could wake up today and decide you don't feel like it. It's almost always possible to redistribute work, but be aware that popular holidays can make it difficult to find someone to cover you. Consider planning in advance according to how important it is to you.
 
-We strongly discourage working while on vacation. But we realize there are spectrums of "vacations" and maybe you're just watching the kids for a day and you're bored during nap time. If you work while on vacation, do not do things that might block others or force them to consider communicating with you. For example, no deploying.
+We strongly discourage working while on vacation. We realize there are spectrums of "vacation" and maybe you're just bored watching the kids for a day, but working while on vacation can complicate the lives of those that are not on vacation. If you work while on vacation, do not do things that might block others or force them to consider communicating with you. For example, do not deploy. Deploying could block other planned work or cause an incident that you, the person on vacation, has important knowledge about.
  
 Lastly, because we all love to travel, we have a [Travel Reports Basecamp](https://3.basecamp.com/3093825/projects/13426840) where we share our travel experiences.
 
