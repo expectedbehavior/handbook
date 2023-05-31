@@ -22,6 +22,9 @@ All packages can be picked up from the reception desk area. They will typically 
 ### Trash & Recycling
 The trash bin is on the northeast corner of the office. Recycling bins are in the hall. Cardboard recycling is on our floor by the main stairs.
 
+### Cleaning
+Our office is cleaned weekly. They'll also wash any dishes placed in the bins to the left of the coffee stand.
+
 # Working From Home
 We want you to be excited about coming to work at the office with the rest of us while simultaneously feeling completely free to work from home or the coffee shop. Maybe you want some alone time or need to focus. Or maybe you have sick kids, dentist appointments, or car problems. [Notify people](communication.md) about your expected availability as necessary.
 
