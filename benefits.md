@@ -44,6 +44,21 @@ These aren't strictly necessary with an unlimited vacation day policy. This list
 # Monday Night Dinner
 This is one of our "togetherness" benefits. A wise man once said that Expected Behavior only works if we all like and respect each other. Togetherness benefits encourage that by making it convenient to spend time together when we're not working. After work every Monday, all the willing Behaviornauts go out to dinner and Expected Behavior pays. We already have plenty of time together to talk about work, so work talk is discouraged. 
 
+# Snacks and Drinks (and Dranks)
+Hungry?  We have a variety of snack food like popcorn or snacky-bars. 
+Thirsty? We’ve got coffee (drip or french press), tea (a variety), and water (bottled, dispensed, SodaStream). 
+
+We also have a fine whiskey selection and a smattering of other alcohol. Expected Behavior reminds you to please drink responsibly. We will always cover any and all work-related ride sharing expenses.
+
+If there’s a snack or beverage you like that we don’t have, get some with your company card and share it with us.
+
+# Other Free Food
+There plenty of other times when Expected Behavior will provide free food: if we have a lunch meeting, if it's someone's first day, if we're celebrating something, if it's a _really_ nice day, etc. 
+
+Food is a relatively minor budget item at a [small company](intentionally_small.md), so please don't worry much about cost. If you're still concerned about cost, order the greater of A) whatever you would order if you were paying for yourself or B) the most expensive thing someone else is ordering. 
+
+We like to share food, but sharing is not required. To simplify food sharing, it's fine to order things "for the table" without asking if anyone at the table wants any. It's also fine to order shareables and keep it for yourself. If it's unclear, someone may ask you if your order is intended for sharing. There is no wrong answer. They just want to know if they need to order their own.
+
 # Goof Off Days
 Every 6-8 weeks, we take a day off and do something together during the work day. We take turns planning the goof off day, so everyone has a chance to show off their interests. You can find the current schedule in [relevant Basecamp](https://3.basecamp.com/3093825/projects/31753536). When it's your turn to plan, it's a chance to share your interests with your coworkers or just have us do something together you think is fun. It's fine to repeat previous goofs. [The only limit is yourself](https://www.zombo.com). And the budget (also found in the Basecamp).
 
@@ -78,14 +93,6 @@ We’ll pay our accountant to do your personal taxes, if you’d like.
 
 # Video Games and Office Amusements
 We have video game consoles, modern and classic, and have a monthly budget for adding new games. We mostly focus on group games so people can play together, but fun-to-watch single-player games also make their way in from time to time. You're welcome to buy games with your company card, but you might want to check on the best way to do it so everyone can use it. Each console has its own sharing system and we want for everyone to enjoy.
-
-# Snacks and Drinks (and Dranks)
-Hungry?  We have a variety of snack food like popcorn or snacky-bars. 
-Thirsty? We’ve got coffee (drip or french press), tea (a variety), and water (bottled, dispensed, SodaStream). 
-
-We also have a fine whiskey selection and a smattering of other alcohol. Expected Behavior reminds you to please drink responsibly. We will always cover any and all work-related ride sharing expenses.
-
-If there’s a snack or beverage you like that we don’t have, get some with your company card and share it with us.
 
 # In-Office Gym
 This is a recent experiment in increasing our convenience. We're gauging usage to see if we should keep it. The current implementation is somewhere around "nice hotel gym". We have a treadmill, dumbbells from 5-80lb, a bench, and various tools for yoga/stretching/correctives. Showers are available in our restrooms.
